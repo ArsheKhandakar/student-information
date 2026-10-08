@@ -1,4 +1,3 @@
-```php
 <?php
 require "db.php";
 
@@ -44,4 +43,4 @@ try {
     exit("Unable to delete student information.");
 }
 ?>
-```
+
